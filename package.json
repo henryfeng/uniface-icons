@@ -1,0 +1,22 @@
+{
+  "name": "@hanmotec/uniface-icons",
+  "version": "0.1.3",
+  "description": "SVG Fonts Package",
+  "main": "index.js",
+  "styles": "feather-style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "fonts"
+  ],
+  "type": "module",
+  "author": "Henry Feng",
+  "license": "MIT",
+  "files": [
+    "fonts",
+    "feather-style.css"
+  ],
+  "private": false
+}
