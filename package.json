@@ -1,6 +1,6 @@
 {
-  "name": "@hanmotec/uniface-icons",
-  "version": "0.1.3",
+  "name": "@ticatec/uniface-icons",
+  "version": "0.1.0",
   "description": "SVG Fonts Package",
   "main": "index.js",
   "styles": "feather-style.css",
